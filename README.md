@@ -4,7 +4,7 @@
 
 1. Create an account on [mixedbread.com](https://platform.mixedbread.com)
 2. Create an API Key (on the left -> API Keys -> Create)
-3. Install the package: `pip install git+`
+3. Install the package: `pip install git+https://github.com/mixedbread-ai/mixedbread-parsing-haystack`
 4. Using it:
 
 ```python
